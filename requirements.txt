@@ -1,0 +1,9 @@
+anthropic
+python-dotenv
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
+colorama
+pygments
