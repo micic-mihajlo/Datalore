@@ -155,7 +155,6 @@ def encode_image_to_base64(image_path):
         return f"Error encoding image: {str(e)}"
 
 import subprocess
-import pkg_resources
 
 def setup_virtual_environment():
     venv_name = "data_analysis_env"
